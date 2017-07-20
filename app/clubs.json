@@ -1,0 +1,38 @@
+[
+    {
+        "id" : 1,
+        "name" : "FC Barcelone",
+        "players": [1 ,3],
+        "budget" : 800000000
+    },
+    {
+        "id" : 2,
+        "name" : "Real Madrid",
+        "players": [2],
+        "budget" : 800000000
+    },
+    {
+        "id" : 3,
+        "name" : "Bayern Munich",
+        "players": [],
+        "budget" : 700000000
+    },
+    {
+        "id" : 4,
+        "name" : "Villejuif",
+        "players": [],
+        "budget" : 200000
+    },
+    {
+        "id" : 5,
+        "name" : "Manchester United",
+        "players": [4],
+        "budget" : 700000000
+    },
+    {
+        "id" : 6,
+        "name" : "Olympique de Marseille",
+        "players": [5],
+        "budget" : 250000000
+    }
+]

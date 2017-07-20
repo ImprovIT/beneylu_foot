@@ -1,0 +1,16 @@
+<h1>Liste des clubs : </h1>
+
+<!-- {{clubList}} -->
+
+<table>
+    <thead>
+        <th>Nom du club</th>
+        <th>Budget</th>
+        <th>Liste des joueurs</th>
+    </thead>
+    <tr ng-repeat="club in clubList">
+        <td>{{ club.name }}</td>
+        <td>{{ club.budget | currency : "€" }}</td>
+        <td ng-if="club.players.length"><a ng-href="#!/players/{{club.id}}">Players</a></td>
+    </tr>
+</table>

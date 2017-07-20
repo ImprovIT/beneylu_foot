@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Lionel",
+        "firstname": "Messi",
+        "age": 30,
+        "club": 1,
+        "price": 100000000,
+        "transfer": false
+    },
+    {
+        "id": 2,
+        "name": "Christiano",
+        "firstname": "Ronaldo",
+        "age": 32,
+        "club": 2,
+        "price": 80000000,
+        "transfer": true
+    },
+    {
+        "id": 3,
+        "name": "Luis",
+        "firstname": "Suarez",
+        "age": 30,
+        "club": 1,
+        "price": 70000000,
+        "transfer": true
+    },
+    {
+        "id": 4,
+        "name": "Pogba",
+        "firstname": "Paul",
+        "age": 24,
+        "club": 5,
+        "price": 110000000,
+        "transfer": true
+    },
+    {
+        "id": 5,
+        "name": "Payet",
+        "firstname": "Dimitri",
+        "age": 30,
+        "club": 6,
+        "price": 30000000,
+        "transfer": true
+    },
+    {
+        "id": 6,
+        "name": "Random",
+        "firstname": "Star",
+        "age": 18,
+        "club": 0,
+        "price": 1000000,
+        "transfer": true
+    }
+]
